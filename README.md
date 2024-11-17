@@ -1,4 +1,4 @@
-Hello, I'm Daniil Nozikow. I'm just novice programmer. also glad to get along with intelligent and interesting people!
+Hello, I'm Daniil Nozikow. I'm just novice programmer, glad to get along with intelligent and interesting people!
 
 Age: 21
 Online period: 07.00 - 16.00 UTC
