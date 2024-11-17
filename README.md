@@ -3,7 +3,9 @@ Hello, I'm Daniil Nozikow. I'm just novice programmer, glad to get along with in
 Age: 21
 
 Online period: 07.00 - 16.00 UTC
+
 Email: mundusen@yahoo.com
+
 Telegram: @lichtord
 
 Programming Languages and Areas I'm Currently Working In:
