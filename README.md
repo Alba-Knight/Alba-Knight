@@ -10,9 +10,9 @@ Telegram: @lichtord
 
 Programming Languages and Areas I'm Currently Working In:
 
-OOP
-Python
-SQL
+- OOP
+- Python
+- SQL
 
 
 Mission:
